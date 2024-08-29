@@ -1,2 +1,2 @@
-# mudan-a-de-temperatura
+# mudanca-de-temperatura
 cod simples de mudança de temperatura;
